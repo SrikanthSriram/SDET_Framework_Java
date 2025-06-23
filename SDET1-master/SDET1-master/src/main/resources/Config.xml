@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameworkConfig>
+	<TestEnvironment Name="default">
+		<Config name="Log4JPropertiesFilePath"
+			value="./configuration/log4j.properties"></Config>
+		<Config name="WebDriverCommandSwitch"
+			value="webdriver_enable_native_events,--start-maximized,--ignore-certificate-errors"></Config>
+		<Config name="BrowserType" value="chrome" />
+		<Config name="ElementWaitTime" value="10" />
+		<Config name="AppURL" value="https://www.nseindia.com/" />
+	</TestEnvironment>
+
+	<WebServices>
+		<Config name="baseURI" value="https://api.bolt2qa.bolt2hub.com/" />
+		<Config name="AuthQAbaseUri"
+			value="https://carrierapium.azurewebsites.net" />
+	</WebServices>
+
+</FrameworkConfig>

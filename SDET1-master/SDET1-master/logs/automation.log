@@ -1,0 +1,1284 @@
+15:10:57.753 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+15:10:57.804 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+15:10:57.808 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+15:11:05.999 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+15:11:06.009 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+15:11:08.340 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+15:11:12.045 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+15:11:12.046 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+15:11:12.049 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+15:11:14.233 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+15:11:14.233 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+15:11:14.470 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+15:11:14.898 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:14.969 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:15.123 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:15.124 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:15.496 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+15:11:15.502 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+15:11:15.502 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod3 =========
+15:11:15.706 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:15.765 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:18.369 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+15:11:18.372 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+15:11:18.431 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:18.452 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:18.477 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+15:11:18.557 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:20.977 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+15:11:21.008 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+15:11:21.023 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:21.109 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:21.134 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+15:11:21.204 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:27.828 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+15:11:29.032 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+15:11:29.080 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+15:11:29.091 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+15:11:30.330 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+15:11:30.824 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+15:11:33.893 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+15:11:36.395 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+15:11:36.513 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:37.045 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+15:11:39.099 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:39.178 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:41.501 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+15:11:41.510 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:41.614 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+15:11:41.615 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+15:11:41.626 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:41.731 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+15:11:41.732 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50
+15:11:41.844 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+15:11:41.850 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+15:11:41.858 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:41.864 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:41.921 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot captured for test case:testMethod1
+15:11:42.032 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+15:11:42.032 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+15:11:42.033 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+15:11:42.033 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+15:11:42.046 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:42.046 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:11:42.156 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+15:11:42.183 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+15:11:42.223 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+15:11:42.397 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+15:11:42.450 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+15:11:42.592 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+15:11:42.664 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+15:11:42.872 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 21
+15:11:42.873 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+15:11:43.489 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 22
+15:11:43.490 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+15:11:43.510 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 23
+15:11:43.511 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+15:33:38.198 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+15:33:38.237 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+15:33:38.240 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+15:33:45.222 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+15:33:45.222 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+15:33:45.222 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+15:33:48.722 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+15:33:48.723 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+15:33:48.740 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+15:33:49.322 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+15:33:49.352 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+15:33:49.398 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod3 =========
+15:33:49.878 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+15:33:49.884 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+15:33:49.891 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+15:33:51.070 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:33:51.079 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:33:51.085 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:33:51.287 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:33:51.291 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:33:51.298 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:33:53.981 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+15:33:53.981 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+15:33:54.021 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+15:33:54.034 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:33:54.048 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:33:54.080 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:33:56.402 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+15:33:56.429 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+15:33:56.438 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:33:56.456 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+15:33:56.470 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:33:56.511 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:34:02.421 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+15:34:02.481 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+15:34:02.488 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+15:34:02.491 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+15:34:02.599 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+15:34:02.606 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+15:34:07.587 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+15:34:08.395 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+15:34:08.572 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+15:34:09.648 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:34:09.876 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:34:09.885 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:34:12.375 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+15:34:12.481 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:34:13.334 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+15:34:13.473 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+15:34:13.636 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:34:13.727 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:34:13.874 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+15:34:13.876 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+15:34:13.904 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:34:14.096 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+15:34:14.096 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+15:34:14.130 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+15:34:14.132 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+15:34:14.149 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+15:34:14.164 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:34:14.202 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:34:14.360 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+15:34:14.447 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+15:34:14.601 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+15:34:14.605 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50
+15:34:14.627 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+15:34:14.730 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+15:34:14.903 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+15:34:14.914 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot captured for test case:testMethod1
+15:34:15.514 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+15:34:15.959 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 22
+15:34:15.961 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+15:34:16.014 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 23
+15:34:16.016 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+15:34:16.136 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 21
+15:34:16.136 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+15:38:56.691 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+15:38:56.728 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+15:38:56.734 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+15:39:02.063 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+15:39:03.096 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+15:39:03.097 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+15:39:03.097 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+15:39:03.676 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:39:03.882 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:39:06.381 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+15:39:06.399 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:39:08.637 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+15:39:08.657 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:39:18.762 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+15:39:18.800 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+15:39:21.129 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+15:39:21.281 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:39:23.408 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+15:39:23.423 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:39:23.630 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+15:39:23.630 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+15:39:23.650 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+15:39:23.768 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+15:39:23.769 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - 52 Week High value is not displayed correctly. Expected: ₹ 1,150.00, Actual: 393.50
+15:39:43.958 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot captured for test case:testMethod1
+15:40:07.198 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+15:40:07.563 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 18
+15:40:07.563 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:05:01.413 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+16:05:01.460 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+16:05:01.465 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+16:05:10.054 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:05:12.838 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:05:13.449 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:05:13.449 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:05:13.454 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+16:05:14.511 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:05:17.338 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:05:17.340 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:05:17.343 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+16:05:18.031 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:05:18.032 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:05:18.192 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod3 =========
+16:05:18.261 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:18.908 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:18.947 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:18.955 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:19.006 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:19.037 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:21.962 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:05:21.998 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:05:22.002 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:05:22.019 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:22.049 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:22.049 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:24.494 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:05:24.557 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:24.657 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:05:24.671 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:05:24.744 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:24.754 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:30.454 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:05:30.788 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:05:30.829 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:05:31.177 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:05:35.062 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:05:35.644 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:05:37.849 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:38.052 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:05:38.076 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:38.110 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:05:40.273 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:05:40.284 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:40.335 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:05:40.345 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:40.532 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:05:40.533 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:05:40.535 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:05:40.536 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:05:40.548 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:40.555 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:40.711 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+16:05:40.712 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50
+16:05:40.928 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot captured for test case:testMethod1
+16:05:40.928 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+ 52 Week High Value: 393.50
+ 52 Week Low Value: 230.00
+16:05:41.321 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+16:05:42.062 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 21
+16:05:42.063 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:05:42.063 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 22
+16:05:42.064 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:05:43.381 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:05:43.751 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:45.922 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:05:45.932 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:46.022 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:05:46.022 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:05:46.033 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:05:46.076 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+ 52 Week High Value: 393.50
+ 52 Week Low Value: 230.00
+16:05:46.655 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 23
+16:05:46.655 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:24:57.401 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+16:24:57.454 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+16:24:57.459 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+16:25:07.118 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:25:07.117 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:25:07.496 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:25:10.499 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:25:10.500 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:25:10.521 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+16:25:10.564 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:25:10.565 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:25:10.568 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod3 =========
+16:25:10.577 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:25:10.579 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:25:10.597 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+16:25:12.246 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:12.245 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:12.256 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:12.387 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:12.389 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:12.389 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:12.699 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:14.972 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:25:14.972 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:25:15.098 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:15.106 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:15.125 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:25:15.216 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:15.428 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:17.657 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:25:17.669 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:25:17.680 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:25:17.687 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:25:17.702 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:17.702 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:25:17.702 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:25:17.719 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:17.750 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:22.951 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:22.951 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:23.029 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:25:27.535 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:25:27.929 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:28.244 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:28.255 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:28.271 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:28.271 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:28.397 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:25:28.408 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:25:28.505 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:31.840 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:25:32.242 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:25:32.307 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:25:32.460 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:33.250 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:33.335 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:33.381 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:33.584 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:25:33.586 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:25:33.591 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:25:33.638 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:33.653 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:33.695 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+16:25:33.980 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+16:25:34.144 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+16:25:34.287 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+16:25:34.330 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+16:25:34.363 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+16:25:34.363 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+16:25:34.983 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 22
+16:25:34.983 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:25:35.697 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:25:35.708 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:35.745 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:25:35.756 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:35.765 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:35.833 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:25:35.834 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:25:35.834 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:25:35.844 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:35.871 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:35.915 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:25:35.940 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:25:35.941 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:25:35.941 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:25:35.957 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:25:35.989 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+16:25:35.991 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50
+16:25:35.992 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+16:25:36.125 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot captured for test case:testMethod1
+16:25:36.131 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+16:25:36.265 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+16:25:36.388 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+16:25:36.488 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+16:25:36.569 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+16:25:36.614 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+16:25:36.614 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+16:25:37.001 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 21
+16:25:37.003 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:25:37.175 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 23
+16:25:37.175 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:31:24.171 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+16:31:24.218 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+16:31:24.222 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+16:31:31.916 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:31:31.957 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:31:32.339 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:31:34.991 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:31:34.992 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:31:35.054 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+16:31:35.081 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:31:35.081 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:31:35.082 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod3 =========
+16:31:35.086 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:31:35.088 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:31:35.097 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+16:31:36.831 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:36.831 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:36.845 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:36.982 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:36.982 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:36.982 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:37.164 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:31:37.164 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:31:37.165 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:31:39.841 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:31:39.881 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:31:39.935 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:31:39.975 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:39.977 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:40.012 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:40.276 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:31:42.490 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:31:42.506 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:31:42.521 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:31:42.527 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:31:42.549 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:31:42.553 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:31:42.570 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:42.589 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:42.596 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:49.280 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:31:49.282 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:31:49.596 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:31:53.021 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:31:53.022 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:31:53.069 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:31:53.110 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:31:53.110 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:31:53.150 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:31:55.755 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:31:56.459 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:31:56.527 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:31:58.520 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:58.699 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:58.728 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:31:58.882 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:32:00.912 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:32:00.934 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:32:00.986 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:32:01.031 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:32:01.043 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:32:01.045 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:32:01.047 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:32:01.049 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:32:01.054 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:32:01.062 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:32:01.069 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:32:01.101 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+16:32:01.123 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:32:01.188 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:32:01.189 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:32:01.190 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:32:01.202 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:32:01.209 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:32:01.210 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:32:01.210 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:32:01.223 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:32:01.229 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+16:32:01.258 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+16:32:01.288 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:32:01.365 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+16:32:01.366 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50
+16:32:01.442 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+16:32:01.444 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+16:32:01.545 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot captured for test case:testMethod1
+16:32:01.599 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+16:32:01.599 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+16:32:01.624 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+16:32:01.648 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+16:32:01.648 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+16:32:01.881 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+16:32:01.910 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+16:32:01.947 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+16:32:01.948 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+16:32:01.986 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+16:32:02.367 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 22
+16:32:02.367 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:32:02.461 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 23
+16:32:02.461 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:32:02.509 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 21
+16:32:02.509 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:34:50.982 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+16:34:51.026 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+16:34:51.030 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+16:34:57.410 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:34:57.852 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:34:59.181 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:34:59.672 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:34:59.673 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:34:59.674 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod3 =========
+16:35:02.360 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:02.415 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:35:02.415 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:35:02.415 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:35:02.415 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:35:02.415 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+16:35:02.415 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+16:35:02.993 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:03.075 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:03.144 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:03.172 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:03.195 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:03.374 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:05.575 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:35:05.625 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:05.704 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:35:05.709 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:35:05.832 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:05.921 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:06.076 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:08.413 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:35:08.429 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:35:08.479 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:08.615 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:35:08.615 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:35:08.635 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:35:08.636 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:35:08.651 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:08.665 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:14.512 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:14.512 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:14.574 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:35:17.784 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:35:19.371 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:20.040 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:20.041 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:20.063 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:20.068 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:20.139 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:20.179 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:35:20.185 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:35:22.260 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:35:22.288 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:22.394 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:22.528 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:35:22.538 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:35:22.546 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:35:22.568 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:22.629 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+16:35:22.651 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:35:22.853 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:35:22.922 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+16:35:23.158 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+16:35:23.262 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:23.303 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:23.380 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+16:35:23.425 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+16:35:23.463 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+16:35:23.463 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+16:35:23.789 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:23.789 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:24.206 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 23
+16:35:24.206 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:35:25.838 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:35:25.838 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:35:25.852 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:25.852 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:25.928 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:25.928 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:25.987 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:35:25.987 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:35:25.987 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:35:25.987 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:35:25.987 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:35:25.987 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:35:25.998 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:26.003 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:35:26.023 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+16:35:26.058 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:35:26.126 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+16:35:26.127 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50
+16:35:26.180 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+16:35:26.274 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot captured for test case:testMethod1
+16:35:26.336 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+16:35:26.472 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+16:35:26.480 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+16:35:26.529 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+16:35:26.530 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+16:35:26.645 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+16:35:27.196 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 22
+16:35:27.196 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:35:27.228 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 21
+16:35:27.228 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:39:48.644 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+16:39:48.679 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+16:39:48.683 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+16:39:53.355 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:39:54.486 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:39:54.486 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:39:54.487 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+16:39:55.136 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:39:55.377 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:39:55.651 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:39:57.717 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:39:57.733 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:39:57.781 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:39:59.851 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:39:59.851 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:39:59.871 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:40:09.933 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:40:09.933 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:40:09.955 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:40:12.177 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:40:12.314 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:40:12.377 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:40:14.425 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:40:14.451 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:40:19.625 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:40:20.414 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:40:38.660 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:40:43.136 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:40:50.097 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:40:50.137 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+16:40:50.598 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+16:40:51.048 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+16:40:51.479 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+16:40:51.500 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+16:40:51.520 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+16:40:51.521 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+16:40:51.897 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 18
+16:40:51.897 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:41:12.014 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+16:41:12.045 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+16:41:12.049 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+16:41:15.773 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:41:16.861 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:41:16.862 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:41:16.863 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+16:41:17.420 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:41:17.544 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:41:17.738 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:41:19.796 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:41:19.809 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:41:19.865 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:41:21.917 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:41:21.917 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:41:21.917 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:41:31.997 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:41:31.997 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:41:32.010 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:41:34.237 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:41:34.367 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:41:34.424 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:41:36.468 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:41:36.476 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:41:36.533 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:41:36.576 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:41:36.576 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:41:36.578 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:41:36.580 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:41:36.608 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+16:41:36.729 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+16:41:36.853 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+16:41:36.969 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+16:41:36.969 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+16:41:36.994 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+16:41:36.994 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+16:41:37.383 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 17
+16:41:37.387 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:43:16.551 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+16:43:16.585 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+16:43:16.589 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+16:43:20.079 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:43:21.071 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:43:21.071 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:43:21.072 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+16:43:21.749 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:43:21.924 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:43:22.115 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:43:24.195 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:43:24.216 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:43:24.292 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:43:26.344 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is not displayed' ***
+16:43:26.348 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:43:26.355 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:43:36.431 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:43:36.431 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:43:36.444 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:43:38.845 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:43:39.017 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:43:39.106 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:43:41.167 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:43:41.182 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:43:50.502 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:43:50.562 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:47:25.621 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:47:25.631 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:47:25.653 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:47:25.685 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+16:47:25.835 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+16:47:25.963 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+16:47:26.085 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+16:47:26.099 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+16:47:26.116 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+16:47:26.116 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+16:47:26.541 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 18
+16:47:26.541 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+16:48:58.060 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+16:48:58.103 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+16:48:58.107 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+16:49:02.226 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+16:49:03.185 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+16:49:03.185 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+16:49:03.186 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+16:49:03.793 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:49:03.921 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:49:04.351 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:49:06.437 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+16:49:06.457 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:49:06.534 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:49:08.641 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+16:49:08.653 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+16:49:08.673 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:49:18.791 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:49:18.791 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:49:18.813 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+16:49:21.142 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+16:49:21.298 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:49:21.361 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:49:23.415 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+16:49:23.431 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:49:23.512 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+16:49:23.590 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+16:49:23.590 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is not displayed correctly = BEL' ***
+16:49:23.590 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+16:49:23.614 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+16:49:23.646 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+16:49:23.822 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+16:49:24.005 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+16:49:24.173 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+16:49:24.198 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+16:49:24.206 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+16:49:24.206 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+16:49:24.584 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 17
+16:49:24.584 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:03:32.683 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+17:03:32.719 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+17:03:32.723 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+17:03:40.505 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:03:40.505 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:03:42.093 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:03:44.416 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:03:44.420 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:03:44.422 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod3 =========
+17:03:44.428 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:03:44.429 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:03:44.435 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+17:03:44.610 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:03:44.623 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:03:44.630 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+17:03:46.576 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:03:46.578 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:03:46.586 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:03:46.962 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:03:49.660 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:03:49.725 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:03:49.754 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:03:49.835 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:03:49.891 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:03:49.912 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:03:50.215 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:03:52.370 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:03:52.398 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:03:52.420 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:03:52.447 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:03:52.469 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:03:52.531 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:03:59.849 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:03:59.849 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:03:59.859 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:03:59.861 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:04:01.837 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:04:02.154 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:04:02.890 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:04:02.890 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:04:02.934 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:04:10.146 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:04:10.512 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:04:10.625 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:04:11.062 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:04:13.118 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:04:13.124 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:04:13.206 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:04:13.217 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:04:13.223 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:04:13.237 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:04:13.241 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:04:13.329 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:04:13.330 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:04:13.356 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:04:13.357 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:04:13.366 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:04:13.373 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:04:13.380 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:04:13.381 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:04:13.393 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:04:13.431 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:04:13.433 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+17:04:13.433 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+17:04:13.524 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+17:04:13.525 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** FAILED: 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50' ***
+17:04:13.610 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot captured for test case:testMethod1
+17:04:13.655 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+17:04:13.661 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+17:04:13.832 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+17:04:13.838 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+17:04:13.950 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+17:04:14.003 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+17:04:14.003 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+17:04:14.037 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+17:04:14.046 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+17:04:14.079 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+17:04:14.080 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+17:04:14.082 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+17:04:14.083 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+17:04:14.915 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 23
+17:04:14.915 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 21
+17:04:14.915 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:04:14.915 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:04:15.105 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 22
+17:04:15.105 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:08:30.422 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+17:08:30.460 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+17:08:30.465 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+17:08:37.756 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:08:38.009 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:08:38.127 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:08:40.468 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:08:40.471 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:08:40.472 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+17:08:40.599 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:08:40.604 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:08:40.605 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod3 =========
+17:08:41.215 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:08:41.215 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:08:41.216 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+17:08:42.627 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:08:42.634 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:08:42.641 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:08:43.171 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:08:43.171 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:08:43.173 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:08:45.485 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:08:45.486 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:08:45.543 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:08:45.558 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:08:45.562 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:08:45.633 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:08:46.052 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:08:48.144 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:08:48.166 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:08:48.200 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:08:48.227 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:08:48.300 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:08:48.320 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:08:54.452 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:08:54.452 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:08:54.778 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:08:54.920 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:08:54.922 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:08:55.407 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:08:59.939 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:08:59.942 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:09:00.516 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:09:01.355 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:09:01.595 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:09:02.117 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:09:02.191 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:09:03.676 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:09:03.698 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:09:03.793 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:09:03.868 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:09:03.869 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:09:03.872 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:09:03.893 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:09:03.927 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+17:09:04.012 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:09:04.142 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+17:09:04.248 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:09:04.263 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:09:04.330 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+17:09:04.423 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:09:04.564 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+17:09:04.592 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:09:04.593 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:09:04.601 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+17:09:04.633 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:09:04.644 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+17:09:04.646 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+17:09:04.763 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+17:09:05.042 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+17:09:05.289 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+17:09:05.382 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 23
+17:09:05.383 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:09:05.472 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Stock Name: BEL' ***
+17:09:05.499 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** 52 Week High Value: 393.50' ***
+17:09:05.518 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** 52 Week Low Value: 230.00' ***
+17:09:05.518 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - *** Stock details printed successfully' ***
+17:09:06.032 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 22
+17:09:06.032 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:09:06.094 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:09:06.111 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:09:06.199 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:09:06.282 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:09:06.282 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:09:06.310 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:09:06.386 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:09:06.456 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+17:09:06.457 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** FAILED: 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50' ***
+17:09:06.937 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+17:09:07.522 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 21
+17:09:07.522 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:12:29.011 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+17:12:29.056 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+17:12:29.063 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+17:12:35.150 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:12:36.183 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:12:36.183 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:12:36.185 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+17:12:36.898 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:12:37.324 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:12:39.383 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:12:39.403 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:12:39.459 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:12:41.510 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:12:41.528 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:12:51.603 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:12:51.603 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:12:51.625 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:12:53.620 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:12:53.677 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:12:55.736 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:12:55.747 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:12:55.792 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:12:55.840 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:12:55.840 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:12:55.841 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:12:55.889 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:12:55.941 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+17:12:55.942 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** FAILED: 52 Week High value is not displayed correctly. Expected: ₹ 1,150.00, Actual: 393.50' ***
+17:13:28.326 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+17:13:28.682 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 19
+17:13:28.682 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:13:52.175 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+17:13:52.200 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+17:13:52.202 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+17:13:56.282 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:13:57.395 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:13:57.395 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:13:57.398 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+17:13:57.936 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:13:58.371 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:14:00.425 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:14:00.446 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:14:00.522 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:14:02.597 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:14:02.610 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:14:12.687 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:14:12.687 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:14:12.701 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:14:15.231 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:14:15.312 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:14:17.347 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:14:17.368 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:14:17.426 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:14:17.470 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:14:17.470 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:14:17.472 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:14:17.507 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:14:17.562 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+17:14:17.563 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** FAILED: 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50' ***
+17:14:17.950 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+17:14:18.311 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 18
+17:14:18.311 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:18:54.696 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+17:18:54.728 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+17:18:54.733 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+17:19:12.854 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:19:13.978 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:19:13.978 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:19:13.978 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+17:19:14.750 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:19:15.203 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:19:17.304 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:19:17.332 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:19:17.505 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:19:19.552 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:19:19.567 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:19:29.649 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:19:29.649 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:19:29.671 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:19:32.152 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:19:32.224 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:19:34.269 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:19:34.269 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:19:34.323 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:19:34.368 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:19:34.369 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:19:34.372 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:19:34.406 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:19:34.460 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+17:19:34.460 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** FAILED: 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50' ***
+17:19:34.817 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+17:19:35.212 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 18
+17:19:35.212 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:27:24.807 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+17:27:24.845 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+17:27:24.849 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+17:27:30.258 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:27:31.313 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:27:31.314 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:27:31.316 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+17:27:31.950 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:27:32.358 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:27:34.434 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:27:34.456 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:27:34.514 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:27:36.576 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:27:36.593 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:27:46.675 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:27:46.675 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:27:46.695 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:27:49.033 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:27:49.107 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:27:51.157 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:27:51.165 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:27:51.209 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:27:51.247 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:27:51.247 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:27:51.261 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:27:51.306 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:27:51.357 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+17:27:51.357 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** FAILED: 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50' ***
+17:27:51.731 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+17:27:52.131 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 18
+17:27:52.131 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:30:00.116 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+17:30:00.152 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+17:30:00.156 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+17:30:06.947 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:30:08.581 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:30:08.581 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:30:08.581 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+17:30:09.225 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:30:09.537 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:30:11.621 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:30:11.640 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:30:11.739 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:30:13.792 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:30:13.806 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:30:23.899 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:30:23.899 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:30:23.935 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:30:26.506 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:30:26.578 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:30:28.621 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:30:28.644 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:30:28.737 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:30:28.794 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:30:28.794 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:30:28.855 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:30:28.909 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:30:28.966 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+17:30:28.966 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** FAILED: 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50' ***
+17:30:29.345 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+17:30:29.710 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 18
+17:30:29.710 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:33:19.534 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+17:33:19.575 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+17:33:19.580 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+17:33:25.019 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:33:25.973 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:33:25.974 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:33:25.976 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+17:33:26.653 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:33:27.015 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:33:29.066 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:33:29.083 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:33:29.141 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:33:31.205 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:33:31.218 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:33:41.281 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:33:41.281 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:33:41.294 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:33:43.903 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:33:43.964 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:33:46.040 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:33:46.063 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:33:46.152 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:33:46.221 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:33:46.222 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:33:46.233 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:33:46.282 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:33:46.351 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+17:33:46.352 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** FAILED: 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50' ***
+17:33:46.731 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+17:33:47.106 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 18
+17:33:47.106 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:45:22.564 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+17:45:22.594 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+17:45:22.597 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+17:45:29.627 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:45:30.780 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:45:30.781 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:45:30.782 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+17:45:31.423 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:45:31.842 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:45:33.900 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:45:33.924 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:45:34.023 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:45:36.075 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:45:36.084 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:45:46.194 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:45:46.194 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:45:46.207 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:45:50.359 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:45:50.416 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:45:52.472 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:45:52.483 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:45:52.528 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:45:52.567 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:45:52.567 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:45:52.582 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:45:52.616 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:45:52.650 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+17:45:52.650 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** FAILED: 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50' ***
+17:45:53.019 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+17:45:53.394 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 18
+17:45:53.394 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:49:38.559 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+17:49:38.598 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+17:49:38.603 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+17:49:43.186 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:49:43.188 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - Error in setUp: null
+17:49:44.160 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:49:44.496 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:49:46.658 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Home Banner is displayed' ***
+17:49:46.777 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:49:46.983 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:49:49.083 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Marquee Section is displayed' ***
+17:49:49.100 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:49:59.197 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:49:59.197 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:49:59.213 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:50:01.777 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:50:01.838 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:50:03.888 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:50:03.901 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:50:03.951 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:50:03.997 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:50:03.998 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** Verified: Stock name is displayed correctly = BEL' ***
+17:50:04.007 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:50:04.044 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:50:04.079 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+17:50:04.079 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - *** FAILED: 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50' ***
+17:50:04.466 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+17:50:04.466 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:56:59.258 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+17:56:59.311 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+17:56:59.328 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+17:57:07.596 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:57:08.090 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:57:09.380 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+17:57:12.607 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:57:12.610 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:57:12.612 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod1 =========
+17:57:12.640 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:57:12.640 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:57:12.639 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+17:57:12.640 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+17:57:12.644 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+17:57:12.644 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod3 =========
+17:57:16.853 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:16.853 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:16.853 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:17.203 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:17.222 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:17.263 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:20.269 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+17:57:20.283 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+17:57:20.300 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:20.310 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:20.589 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+17:57:20.633 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:22.551 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+17:57:22.568 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:22.598 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+17:57:22.614 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:22.878 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+17:57:22.902 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:30.014 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:57:30.070 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:57:31.220 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:57:31.224 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:57:34.841 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+17:57:35.320 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+17:57:36.443 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+17:57:39.256 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:39.357 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+17:57:40.903 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:40.987 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+17:57:41.596 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:43.315 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:57:43.337 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:43.489 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:57:43.498 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:57:43.499 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+17:57:43.504 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:43.513 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:43.672 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:57:43.673 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+17:57:43.687 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+17:57:43.688 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:43.688 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - 52 Week High value is not displayed correctly. Expected: ? 1,150.00, Actual: 393.50
+17:57:43.736 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+17:57:43.904 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+17:57:44.067 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+17:57:44.069 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+17:57:44.080 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:44.385 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+17:57:44.393 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+17:57:44.430 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+17:57:44.471 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method testMethod1
+17:57:44.515 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+17:57:44.804 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+17:57:45.010 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+17:57:45.098 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 22
+17:57:45.098 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:57:45.165 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 21
+17:57:45.165 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+17:57:45.977 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 23
+17:57:45.977 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+19:22:06.732 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST STARTS NOW  =========================================
+19:22:06.791 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Reading the Configuration file
+19:22:06.798 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Completed the reading of the Configuration file
+19:22:17.613 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+19:22:17.659 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+19:22:19.695 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Driver initialized for browser: chrome
+19:22:22.226 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+19:22:22.227 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+19:22:22.228 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod3 =========
+19:22:22.257 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+19:22:22.258 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+19:22:22.258 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: testMethod2 =========
+19:22:23.663 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - https://www.nseindia.com/
+19:22:23.666 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ========================== TEST METHOD STARTS ============================
+19:22:23.672 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ======== SmokeTest: VerifyThe52WeeksstokHighAndLowValues =========
+19:22:24.146 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:24.146 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:24.245 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:24.245 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:24.640 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:24.660 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:26.596 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+19:22:26.601 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+19:22:26.623 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:26.623 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:26.924 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Home Banner is displayed
+19:22:27.037 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:28.926 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+19:22:28.926 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+19:22:28.956 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:28.956 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:29.411 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Marquee Section is displayed
+19:22:29.439 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:39.868 [TestNG-test-Test-2] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+19:22:39.936 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+19:22:39.939 [TestNG-test-Test-3] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+19:22:39.977 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+19:22:39.985 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+19:22:40.023 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: //div[@class='marquee-content']/a/div[text()='BEL'] loaded
+19:22:45.048 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+19:22:45.608 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+19:22:47.362 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Clicked on Stock from the Marquee with text: BEL
+19:22:48.609 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:48.912 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:49.217 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:52.080 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+19:22:52.121 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:52.130 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+19:22:52.155 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:52.181 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - NSE Logo is displayed
+19:22:52.203 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:52.403 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+19:22:52.405 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+19:22:52.417 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+19:22:52.418 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+19:22:52.440 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:52.452 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:52.452 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Element element: stockName get text successfully
+19:22:52.453 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock name is displayed correctly: BEL
+19:22:52.480 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Page loaded successfully
+19:22:52.507 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+19:22:52.528 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Stock Name: BEL
+19:22:52.674 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Element element: week52HighValue get text successfully
+19:22:52.675 [TestNG-test-Test-1] ERROR com.nse.automation.report.LoggerManager - 52 Week High value is not displayed correctly. Expected: 400.00, Actual: 393.50
+19:22:52.796 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+19:22:52.804 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week High Value: 393.50
+19:22:53.063 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+19:22:53.066 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - 52 Week Low Value: 230.00
+19:22:53.685 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Screenshot taken for failed method VerifyThe52WeeksstokHighAndLowValues
+19:22:54.026 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 24
+19:22:54.026 [TestNG-test-Test-3] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+19:22:54.037 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 23
+19:22:54.037 [TestNG-test-Test-2] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
+19:22:54.332 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - Closed the browser for thread: 22
+19:22:54.333 [TestNG-test-Test-1] INFO  com.nse.automation.report.LoggerManager - ================================ TEST METHOD ENDS  =========================================
