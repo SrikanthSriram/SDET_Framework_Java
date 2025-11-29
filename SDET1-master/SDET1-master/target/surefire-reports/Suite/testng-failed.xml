@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="methods" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" parallel="methods" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="com.nse.automation.sample.SmokeTest">
+        <methods>
+          <include name="VerifyThe52WeeksstokHighAndLowValues" invocation-numbers="0"/>
+          <include name="init"/>
+          <include name="testMethod2"/>
+          <include name="testMethod3"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="logoutAndCloseOpenedBrowsers"/>
+        </methods>
+      </class> <!-- com.nse.automation.sample.SmokeTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

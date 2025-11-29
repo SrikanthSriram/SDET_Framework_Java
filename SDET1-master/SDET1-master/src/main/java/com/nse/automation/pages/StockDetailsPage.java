@@ -19,16 +19,16 @@ public class StockDetailsPage extends Components {
 		return DriverSetUp.getDriver();
 	}
 
-	@FindBy(id = "logoURL")
+	@FindBy(className = "img-fluid main_logo")
 	private WebElement nseLogo;
 
-	@FindBy(xpath = "//div[@id='quoteNav']/a[contains(@class,'active')]")
+	@FindBy(xpath = "//a[@class='activeTab']")
 	private WebElement stockName;
 
-	@FindBy(id = "week52highVal")
+	@FindBy(xpath = "//div[contains(@class, 'symbol_high')]/following-sibling::div")
 	private WebElement week52HighValue;
 
-	@FindBy(id = "week52lowVal")
+	@FindBy(xpath = "//div[contains(@class, 'symbol_low')]/following-sibling::div")
 	private WebElement week52LowValue;
 
 	private IElement getNSELogo() {

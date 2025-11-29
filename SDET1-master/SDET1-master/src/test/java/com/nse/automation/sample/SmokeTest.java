@@ -26,8 +26,6 @@ public class SmokeTest extends BaseTest {
 	}
 
 	@Test(groups = { "smoke" }, description = "Verify the 52 Weeks stok high and low values")
-	
-	@Owner("Chowhan Praveen Kumar")
 	public void VerifyThe52WeeksstokHighAndLowValues(ITestContext testContext) throws FrameworkExceptions {
 		testContext.setAttribute("WebDriver", getDriver());
 		homePage().verifyTheNSEPageLoaded();
@@ -42,7 +40,6 @@ public class SmokeTest extends BaseTest {
 	
 
 	@Test(groups = { "smoke" }, description = "Verify the stock inffomation displayed")
-	@Owner("Chowhan Praveen Kumar")
 	public void testMethod2() throws FrameworkExceptions {
 		homePage().verifyTheNSEPageLoaded();
 		homePage().verifyMarqueeSection();
@@ -53,7 +50,6 @@ public class SmokeTest extends BaseTest {
 	}
 	
 	@Test(groups = { "smoke" }, description = "Print the stock details for BEL")
-	@Owner("Chowhan Praveen Kumar")
 	public void testMethod3() throws FrameworkExceptions {
 		homePage().verifyTheNSEPageLoaded();
 		homePage().verifyMarqueeSection();

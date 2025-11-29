@@ -36,7 +36,7 @@ public class HomePage extends Components {
 	@FindBy(xpath = "//div[@class='marquee marquee_section']")
 	private WebElement marqueeSection;
 	
-	String marqueeTextElement= "//div[@class='marquee-content']/a/div[text()='%stokName']";
+	String marqueeTextElement= "//div[@class='marquee-content playing']/a/div[text()='%stokName']";
 	
 	
 	
@@ -91,7 +91,7 @@ public class HomePage extends Components {
 		}
 		
 		
-		WebElement ele=getDriver().findElement(By.xpath("//div[@class='marquee-content']/a/div[text()='"+stockName+"']"));
+		WebElement ele=getDriver().findElement(By.xpath("//div[@class='marquee-content playing']/a/div[text()='"+stockName+"']"));
 		Waits.waitUntilElementToBeVisible(ele, 120);
 		IElement stock=getComponent(ele, Element.class, this.getClass());
 		stock.jsClick();
